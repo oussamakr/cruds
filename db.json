@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "oussama",
+      "password": "oussama",
+      "fullname": "oussama ben krayen",
+      "email": "oussama.krayen@outlook.com",
+      "phone": "58286169",
+      "country": "Marroco",
+      "adress": "aaa",
+      "gender": "Female"
+    },
+    {
+      "id": "ddc",
+      "password": "scs",
+      "fullname": "xsx",
+      "email": "oussama.krayen@outlook.com",
+      "phone": "58286169",
+      "country": "Algerie",
+      "adress": "dzee",
+      "gender": "Female"
+    },
+    {
+      "id": "ayem",
+      "password": "coach",
+      "fullname": "ayem couch",
+      "email": "oussama.krayen@outlook.com",
+      "phone": "58286169",
+      "country": "",
+      "adress": "ghj",
+      "gender": "Male"
+    },
+    {
+      "id": "lkkjh&",
+      "password": "jhgbh",
+      "fullname": "oussama ben krayen",
+      "email": "oussama.krayen@outlook.com",
+      "phone": "58286169",
+      "country": "Marroco",
+      "adress": "jygjhg jhgjhg ",
+      "gender": "Female"
+    },
+    {
+      "id": "aa",
+      "password": "aa",
+      "fullname": "oussama ben krayen",
+      "email": "oussama.krayen@outlook.com",
+      "phone": "58286169",
+      "country": "",
+      "adress": "a",
+      "gender": "Male"
+    }
+  ]
+}
